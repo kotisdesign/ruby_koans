@@ -7,6 +7,7 @@ class AboutAsserts < Neo::Koan
 
   # We shall contemplate truth by testing reality, via asserts.
   def test_assert_truth
+    # comment so that I can commit
     #--
     assert true                 # This should be true
     if false
